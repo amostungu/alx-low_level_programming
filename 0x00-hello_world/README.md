@@ -1,1 +1,1 @@
-assembler
+puts
