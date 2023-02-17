@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A program that print a line to the standard error
- * Return 1 if success else 0 on error
+ * main - A program that print a line to the standard error using fput function
+ * Return: 1 if success else 0 on error
  */
 int main(void)
 {
