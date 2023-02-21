@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - A program that prints putchar followed by a new line.
+ * main - Entry point
  * Return: 0 (success)
  */
 int main(void)
